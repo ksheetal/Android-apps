@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private AnimationDrawable batAnimation;
     private ImageView batImage;
 
+    
+    // Please add comments.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
